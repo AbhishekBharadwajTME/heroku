@@ -38,7 +38,7 @@ function initmap() {
 	    }
 	});
 
-	var socket = io.connect("https://fast-inlet-64233.herokuapp.com");
+	var socket = io.connect("http://nodejsbackend-trial.44fs.preview.openshiftapps.com/");
 	socket.send();
 	socket.on('connect', function () {
 		socket.on('graphview', function (msg) {

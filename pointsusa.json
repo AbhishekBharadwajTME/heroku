@@ -1,0 +1,13 @@
+{
+    "loc" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            -85.995868, 
+            43.042348
+        ]
+    },
+    "name" : "Delaware County",
+    "type" : "",
+    "code" : "MIE",
+    "eventDate" : "2016-04-04T16:29:42.042Z"
+}
